@@ -1,2 +1,2 @@
 # portfolio
-##https://jewcool.github.io/portfolio/
+https://jewcool.github.io/portfolio/
